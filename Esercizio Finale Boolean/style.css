@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("Immagini/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.Box{
+    background-color: rgba(0,0,0,.7);
+    margin-top: 100px;
+    padding: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 2%;
+}
+
+header{
+    padding: auto;
+    text-align: center;
+    color: rgb(0, 255, 0);
+}
+
+img{
+    width: 20%;
+}
+
+nav{
+    text-align: center;
+    padding: auto;
+    background-color: rgb(0, 255, 0);
+    margin: auto;
+    width: 70%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+main{
+    margin-left: 15%;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    display: inline-block;
+}
+
+.ScooterCondition1,  .ScooterCondition2{
+    margin-bottom: 2%;
+}
+
+.bar1{
+    height: 20px;
+    width: 270px;
+    background-color: orange;
+    color: orange;
+    border-radius: 3%;
+}
+
+.bar2{
+    height: 20px;
+    width: 500px;
+    background-color:rgb(0, 255, 0) ;
+    color:rgb(0, 255, 0) ;
+    border-radius: 3%;
+}
+
+.bar3{
+    height: 20px;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
+    color: red;
+    border-radius: 3%;
+}
+
